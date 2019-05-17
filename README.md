@@ -1,4 +1,4 @@
-Email sent using Java API
+Send Email using Java API
 
 This project is maven based project for Gmail
 
